@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "647a1ccfe78802e4df5ad1c2"
+  },
+  "nombre": "Pepito Perez",
+  "Edad": 51,
+  "genero": "M"
+},{
+  "_id": {
+    "$oid": "647a1e35e78802e4df5ad1c3"
+  },
+  "nombre": "Luisito Diaz",
+  "Edad": 35,
+  "genero": "M"
+},{
+  "_id": {
+    "$oid": "647a1e35e78802e4df5ad1c4"
+  },
+  "nombre": "Ania Ruiz",
+  "Edad": 38,
+  "genero": "F"
+},{
+  "_id": {
+    "$oid": "647a1e35e78802e4df5ad1c5"
+  },
+  "nombre": "Luna Lunera",
+  "Edad": 56,
+  "genero": "F",
+  "Telefono": "5555555"
+},{
+  "_id": {
+    "$oid": "647a1e35e78802e4df5ad1c6"
+  },
+  "nombre": "Nohora Gacha",
+  "Edad": 65,
+  "genero": "F",
+  "Direccion": "el Cielo"
+}]
